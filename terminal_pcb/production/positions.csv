@@ -1,5 +1,5 @@
-﻿Designator,Mid X,Mid Y,Rotation,Layer
-J1,50.0,-50.0,90.0,top
-J2,72.9,-50.0,90.0,top
-J3,55.5,-49.0,0.0,bottom
-J4,67.4,-49.0,0.0,bottom
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,B+,KEYSTONE_1266,50.0,-50.0,90.0,top
+J2,B-,KEYSTONE_1266,72.9,-50.0,90.0,top
+J3,B+,KEYSTONE-7770,55.5,-49.0,0.0,bottom
+J4,B-,KEYSTONE-7770,67.4,-49.0,0.0,bottom
